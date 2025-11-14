@@ -1,0 +1,13 @@
+Build a basic blogging website. 
+
+- User should be able to post a blog
+- blog will have these things 
+    - title
+    - body
+    - desc 
+    - images 
+
+- User should be able to edit any blog 
+- User should be able to delete a blog
+- User should be able to see all blogs. 
+- User should be able to see one blog in details.
