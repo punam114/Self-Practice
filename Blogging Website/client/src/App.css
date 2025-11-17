@@ -1,0 +1,28 @@
+.box1{
+    width: 100%;
+    border: 2px solid;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 20px;
+    align-items: center;
+    gap: 20px;
+    margin: 20px;
+}
+.box1>div{
+     border: 2px solid;
+     
+}
+.box1 img{
+    width: 100%;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid; */
+    padding: 20px;
+}
+.button>:nth-child(1){
+    margin-right: 12px;
+    
+}
